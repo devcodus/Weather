@@ -1,0 +1,25 @@
+
+/* body{
+    background-image: url('static/weatherimage.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+} 
+## Why doesn't the body selector not work here, only on the HTML?  
+*/ 
+
+h1{
+    color: aliceblue;
+}
+/* .container{
+    opacity: 0.5;
+
+} */
+
+.card{
+    background: rgba(255, 255, 255, 0.3);
+}
+
+/* 
+center the elements
+prett-ify the search bar */
